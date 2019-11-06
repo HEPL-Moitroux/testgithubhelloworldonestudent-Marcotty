@@ -1,0 +1,7 @@
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\bin\Debug\HelloGithub.exe.config
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\bin\Debug\HelloGithub.exe
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\bin\Debug\HelloGithub.pdb
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\obj\Debug\HelloGithub.csprojAssemblyReference.cache
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\obj\Debug\HelloGithub.csproj.CoreCompileInputs.cache
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\obj\Debug\HelloGithub.exe
+C:\Users\fredm\source\repos\HelloGithub\HelloGithub\obj\Debug\HelloGithub.pdb
