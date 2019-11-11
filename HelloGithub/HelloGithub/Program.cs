@@ -10,7 +10,7 @@ namespace HelloGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Github from Frederic Marcotty");
+            Console.WriteLine("Hello Github from Fred Marcotty");
             Console.ReadLine();
         }
     }
