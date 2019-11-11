@@ -11,6 +11,7 @@ namespace HelloGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github from Fred Marcotty");
+            Console.WriteLine("Hello Github from HEYE Alan");
             Console.ReadLine();
         }
     }
